@@ -1,0 +1,11 @@
+<div class="block block-leftnav">
+<div class="block-title"><strong><span>Shop Categories</span></strong></div>
+<div class="block-content">
+        <ul id="leftnav">
+         <!-- HOME BUTTON HACK -->
+
+                <li class="home active"><a href="http://www.thecanvasboutique.com/index.php/?___SID=U"><span>Home</span></a></li>
+        <!-- HOME BUTTON HACK -->
+                </ul>
+       </div> 
+        </div>
