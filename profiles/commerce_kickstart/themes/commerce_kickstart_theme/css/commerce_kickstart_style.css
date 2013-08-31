@@ -120,6 +120,11 @@ body {
 
 .front .zone-content-wrapper .zone-content {
   padding-top: 0; }
+  
+  
+ .region-menu {
+margin-top: 110px;
+}
 
 /*******************************************
 * 3.2.1. Sidebar first
