@@ -45,7 +45,8 @@
 * --
 **************************************************/
 body {
-  background: #ececec url("../images/bg.png") left top; }
+  background: #ececec url("../images/bg.png") left top; 
+  background: #ececec url("../images/chevron-gray-2400.jpeg") left top; }
 
 .responsive-layout-mobile .facetapi-lists {
   display: none; }
