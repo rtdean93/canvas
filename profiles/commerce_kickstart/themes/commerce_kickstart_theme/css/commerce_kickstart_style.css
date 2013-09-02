@@ -438,3 +438,8 @@ a.product-action {
     font-size: 30px;
     margin-bottom: 20px;
 }
+
+.node-product-type .field-type-commerce-product-reference form.commerce-add-to-cart {
+background: none;
+padding-top: 0;
+}
