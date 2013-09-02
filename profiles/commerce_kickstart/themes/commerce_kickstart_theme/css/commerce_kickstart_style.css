@@ -402,7 +402,13 @@ a.product-action {
     background: #2698F2;
     font-size: 150%;
     color: white;
-    border: #3D3135 1px solid;
+    border: 1px solid;
     padding: 10px;
     border-radius: 10px;
+    float: right;
+}
+
+.node-product-display-default .ds-2col-stacked > .group-left {
+    float: left;
+    width: 47%;
 }
