@@ -397,3 +397,12 @@ div.messages.commerce-add-to-cart-confirmation {
 .node-product-display .field-name-body {
     padding: 25px;
 }
+
+a.product-action {
+    background: #2698F2;
+    font-size: 150%;
+    color: white;
+    border: #3D3135 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+}
