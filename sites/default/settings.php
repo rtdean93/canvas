@@ -215,9 +215,9 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'canvas',
-      'username' => 'root',
-      'password' => 'root',
+      'database' => 'thecanva_drupal',
+      'username' => 'thecanva_user2',
+      'password' => 'falcon16',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',

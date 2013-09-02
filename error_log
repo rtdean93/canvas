@@ -1,0 +1,2 @@
+[07-Jul-2013 16:00:03 America/Chicago] PHP Fatal error:  __clone method called on non-object in /home/thecanva/public_html/profiles/commerce_kickstart/commerce_kickstart.profile on line 158
+[07-Jul-2013 16:00:06 America/Chicago] PHP Fatal error:  __clone method called on non-object in /home/thecanva/public_html/profiles/commerce_kickstart/commerce_kickstart.profile on line 158
