@@ -394,9 +394,6 @@ div.messages.commerce-add-to-cart-confirmation {
  *
  * *******************/
 
-.node-product-display .field-name-body {
-    padding: 25px;
-}
 
 a.product-action {
     background: #2698F2;
@@ -411,4 +408,33 @@ a.product-action {
 .node-product-display-default .ds-2col-stacked > .group-left {
     float: left;
     width: 47%;
+}
+
+.node-product-type .cloud-zoom-container #wrap {
+    float: right;
+}
+
+.node-product-type .commerce-product-field {
+    color: #54A8E5;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.node-product-type .cloud-zoom-container #wrap {
+    float: right;
+}
+
+.node-product-type .cloud-zoom-container .cloud-zoom-gallery-thumbs {
+    float: left;
+    clear: none;
+}
+
+#.node-product-type {
+    color: #54A8E5;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 20px;
 }
