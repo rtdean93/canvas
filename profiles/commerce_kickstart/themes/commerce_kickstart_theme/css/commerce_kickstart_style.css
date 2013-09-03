@@ -93,8 +93,10 @@ body {
 */
 .block-shopping-cart-block .content {
   background-color: #ffffff;
-  background-image: url("../images/picto_cart.png"); }
-  .block-shopping-cart-block .content .view-shopping-cart .line-item-summary ul.links {
+  background-image: url("../images/picto_cart.png"); 
+  background-image: url("../images/bg.png"); }
+  
+.block-shopping-cart-block .content .view-shopping-cart .line-item-summary ul.links {
     background-color: #2698F2; }
 
 /**************************************************
