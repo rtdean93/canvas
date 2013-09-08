@@ -46,8 +46,35 @@
 **************************************************/
 body {
   background: #ececec url("../images/bg.png") left top; 
-/*  background: #ececec url("../images/chevron-gray-2400.jpeg") left top; }
+ /*  background: #ececec url("../images/chevron-gray-2400.jpeg") left top; }
 */
+}
+
+
+.zone-branding .region-branding {
+clear: both;
+background: black;
+background: url("/chevron-gray-2400.jpeg") left top;
+border: 1px grey solid;
+border-radius: 10px;
+}
+
+
+section.block-ad-push-block-5 {
+background: url("/chevron-gray-2400.jpeg") left top;
+padding: 30px;
+}
+
+.section.block-ad-push-block-5 div.block.inner {
+background: white;
+border-radius: 50px;
+border: 10px blue dotted;
+
+    border-width: 30px;
+    -webkit-border-image:url(images/dots.png) 30 repeat stretch;
+    -moz-border-image:url(images/dots.png) 30 repeat stretch;
+    border-image:url(images/dots.png) 30 repeat stretch;
+    padding: 30px;
 }
 
 .responsive-layout-mobile .facetapi-lists {
@@ -130,10 +157,10 @@ body {
 margin-top: 110px;
 }
 
-.front .zone-content-wrapper .zone-content {
-background-color: #95BDC0;
-background-color: #EBDACA;
-}
+//.front .zone-content-wrapper .zone-content {
+//background-color: #95BDC0;
+//background-color: #EBDACA;
+//}
 
 
 .navigation .second-menu ul li a {
@@ -469,3 +496,24 @@ margin-bottom: 10px;
 min-height: 0px;
 padding: 15px 10px;
 }
+
+
+.zone-content-wrapper .zone-content {
+//    padding: 29px;
+ //   background-image: url('../images/chevron-gray-2400.jpeg');
+}
+
+.zone-content-wrapper .zone-content .region-content-inner {
+ //   margin-bottom: 10px;
+ //   background: white;
+}
+
+// .front .region-content-inner {
+// min-height: 100%;
+//padding: 0;
+//margin-top: 27px;
+//}
+
+//.zone-branding .region-branding {
+//margin: 0px 15px 15px 0px;
+//}
