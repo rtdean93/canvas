@@ -46,7 +46,9 @@
 **************************************************/
 body {
   background: #ececec url("../images/bg.png") left top; 
-  background: #ececec url("../images/chevron-gray-2400.jpeg") left top; }
+/*  background: #ececec url("../images/chevron-gray-2400.jpeg") left top; }
+*/
+}
 
 .responsive-layout-mobile .facetapi-lists {
   display: none; }
@@ -129,6 +131,12 @@ margin-top: 110px;
 }
 
 .front .zone-content-wrapper .zone-content {
+background-color: #95BDC0;
+background-color: #EBDACA;
+}
+
+
+.navigation .second-menu ul li a {
 background-color: #95BDC0;
 }
 
@@ -444,4 +452,20 @@ a.product-action {
 .node-product-type .field-type-commerce-product-reference form.commerce-add-to-cart {
 background: none;
 padding-top: 0;
+}
+
+.view-ad.push {
+margin-bottom: 10px;
+}
+
+#zone-postscript .view-ad-push .views-row, #zone-postscript .block-blog-block .block-inner {
+background-color: #cccccc;
+border: 1px solid #b1b1b1;
+padding: 10px;
+margin-bottom: 10px;
+}
+
+#zone-postscript .view-ad-push .views-row .views-field-field-tagline .field-content a, #zone-postscript .block-blog-block .views-field-title .field-content a {
+min-height: 0px;
+padding: 15px 10px;
 }
