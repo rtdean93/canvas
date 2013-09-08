@@ -445,3 +445,14 @@ a.product-action {
 background: none;
 padding-top: 0;
 }
+
+.zone-content-wrapper .zone-content {
+    background-color: red;
+    padding: 29px;
+    background-image: url('../images/chevron-gray-2400.jpeg');
+}
+
+.zone-content-wrapper .zone-content .region-content-inner {
+    margin-bottom: 10px;
+    background: white;
+}
