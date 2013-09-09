@@ -119,3 +119,178 @@
 */
 .view-collection-taxonomy-term .view-content .item-list h3 span {
   top: -90px; }
+
+
+
+
+/*****************
+ * --
+ * 10. Overrides
+ *
+ * *******************/
+
+
+a.product-action {
+    background: #2698F2;
+    font-size: 150%;
+    color: white;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+    float: right;
+}
+
+.node-product-display-default .ds-2col-stacked > .group-left {
+    float: left;
+    width: 47%;
+}
+
+.node-product-type .cloud-zoom-container #wrap {
+    float: right;
+}
+
+.node-product-type .commerce-product-field {
+    color: #54A8E5;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.node-product-type .cloud-zoom-container #wrap {
+    float: right;
+}
+
+.node-product-type .cloud-zoom-container .cloud-zoom-gallery-thumbs {
+    float: left;
+    clear: none;
+}
+
+#.node-product-type {
+    color: #54A8E5;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.node-product-type .field-type-commerce-product-reference form.commerce-add-to-cart {
+background: none;
+padding-top: 0;
+}
+
+.view-ad.push {
+margin-bottom: 10px;
+}
+
+#zone-postscript .view-ad-push .views-row, #zone-postscript .block-blog-block .block-inner {
+background-color: #cccccc;
+border: 1px solid #b1b1b1;
+padding: 10px;
+margin-bottom: 10px;
+}
+
+#zone-postscript .view-ad-push .views-row .views-field-field-tagline .field-content a, #zone-postscript .block-blog-block .views-field-title .field-content a {
+min-height: 0px;
+padding: 15px 10px;
+}
+
+/*
+.zone-content-wrapper .zone-content {
+//    padding: 29px;
+ //   background-image: url('../images/chevron-gray-2400.jpeg');
+}
+
+.zone-content-wrapper .zone-content .region-content-inner {
+ //   margin-bottom: 10px;
+ //   background: white;
+}
+
+// .front .region-content-inner {
+// min-height: 100%;
+//padding: 0;
+//margin-top: 27px;
+//}
+
+//.zone-branding .region-branding {
+//margin: 0px 15px 15px 0px;
+//}
+*/
+
+
+.navigation .primary-menu ul li a.active {
+color: #A3C6C9;
+background-color: #3D3135;
+}
+
+.navigation .primary-menu ul, .navigation .second-menu ul {
+margin: 0px 0px 26px 0px;
+}
+
+.navigation .primary-menu ul li a {
+color: #E1D1C2;
+background-color: #3D3135;
+}
+
+.zone-branding .region-branding {
+margin: 30px 0 0px 0;
+}
+
+.container-24 .grid-8 {
+width: 250px;
+}
+
+.container-24 .grid-14 {
+width: 500px;
+}
+
+
+.navigation .primary-menu ul li a:hover {
+color: #A3C6C9;
+background-color: #3D3135;
+}
+
+#zone-postscript .view-ad-push .view-content {
+background-color: #cccccc;
+border: 1px solid #b1b1b1;
+padding: 10px;
+}
+
+#zone-postscript .view-ad-push img {
+border: 4px white solid;
+}
+
+#block-menu-menu-social-connection h2 {
+background: none;
+color: #eeeeee;
+}
+
+.navigation {
+margin: 0;
+margin-left: 70px;
+}
+
+h2.node-title {
+font-size: 30px;
+font-family: 'Alex Brush', cursive;
+padding-left: 15px;
+}
+
+h1#page-title {
+font-size: 30px;
+	padding-left: 15px;
+	font-family: 'Alex Brush', cursive;
+}
+
+.zone-content-wrapper .region-content .region-inner {
+background: white;
+border: 4px dotted #A3C6C9;
+/*
+border-radius: 30px;
+
+    border-width: 30px;
+    -webkit-border-image:url(../images/dots.png) 10 repeat stretch;
+    -moz-border-image:url(../images/dots.png) 10 repeat stretch;
+    border-image:url(../images/dots.png) 10 repeat stretch;
+*/
+}
