@@ -1,5 +1,7 @@
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400,700,300,600,800);
 @import url(//fonts.googleapis.com/css?family=Gentium+Basic:400,700);
+@import url(//http://fonts.googleapis.com/css?family=Alex+Brush:400,700,300,600,800);
+
 /* This file will hold styles for the mobile version of your website (mobile first). */
 /* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
 /* Override Omega */
@@ -50,7 +52,7 @@ body {
 */
 }
 
-
+/*
 .zone-branding .region-branding {
 clear: both;
 background: black;
@@ -59,22 +61,34 @@ border: 1px grey solid;
 border-radius: 10px;
 }
 
+*/
 
-section.block-ad-push-block-5 {
+
+.zone-content-wrapper .zone-content {
 background: url("/chevron-gray-2400.jpeg") left top;
 padding: 30px;
 }
 
-.section.block-ad-push-block-5 div.block.inner {
+h2.block-title {
+font-size: 30px;
+margin: 0;
+font-weight: bolder;
+font-family: 'Alex Brush', cursive;
+}
+
+.navigation .primary-menu ul li a.active {
+color: #E1D1C2;
+background-color: #3D3135;
+}
+
+.zone-content-wrapper .region-content .region-inner {
 background: white;
-border-radius: 50px;
-border: 10px blue dotted;
+border-radius: 30px;
 
     border-width: 30px;
-    -webkit-border-image:url(images/dots.png) 30 repeat stretch;
-    -moz-border-image:url(images/dots.png) 30 repeat stretch;
-    border-image:url(images/dots.png) 30 repeat stretch;
-    padding: 30px;
+    -webkit-border-image:url(https://thecanvasboutique.com/profiles/commerce_kickstart/themes/commerce_kickstart_theme/images/dots.png) 10 repeat stretch;
+    -moz-border-image:url(https://thecanvasboutique.com/profiles/commerce_kickstart/themes/commerce_kickstart_theme/images/dots.png) 10 repeat stretch;
+    border-image:url(https://thecanvasboutique.com/profiles/commerce_kickstart/themes/commerce_kickstart_theme/images/dots.png) 10 repeat stretch;
 }
 
 .responsive-layout-mobile .facetapi-lists {
@@ -150,18 +164,21 @@ border: 10px blue dotted;
   background-color: #FFFFFF; }
 
 .front .zone-content-wrapper .zone-content {
-  padding-top: 0; }
-  
-  
- .region-menu {
-margin-top: 110px;
+padding-top: 30px;
+border-radius: 30px;
 }
 
+/*  
+ .region-menu {
+/*margin-top: 110px;
+}
+*/
+/*
 //.front .zone-content-wrapper .zone-content {
 //background-color: #95BDC0;
 //background-color: #EBDACA;
 //}
-
+*/
 
 .navigation .second-menu ul li a {
 background-color: #95BDC0;
@@ -497,7 +514,7 @@ min-height: 0px;
 padding: 15px 10px;
 }
 
-
+/*
 .zone-content-wrapper .zone-content {
 //    padding: 29px;
  //   background-image: url('../images/chevron-gray-2400.jpeg');
@@ -517,3 +534,28 @@ padding: 15px 10px;
 //.zone-branding .region-branding {
 //margin: 0px 15px 15px 0px;
 //}
+*/
+
+
+.navigation .primary-menu ul li a.active {
+color: #E1D1C2;
+background-color: #3D3135;
+font-size: 1.4em;
+}
+
+.navigation .primary-menu ul, .navigation .second-menu ul {
+margin: 0px 0px 26px 0px;
+}
+
+.navigation .primary-menu ul li a {
+color: #E1D1C2;
+background-color: #3D3135;
+}
+
+.zone-branding .region-branding {
+margin: 30px 0 0px 0;
+}
+
+.container-24 .grid-8 {
+width: 250px;
+}
