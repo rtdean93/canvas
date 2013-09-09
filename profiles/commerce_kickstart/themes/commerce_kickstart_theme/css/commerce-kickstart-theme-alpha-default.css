@@ -276,6 +276,10 @@ font-family: 'Alex Brush', cursive;
 padding-left: 15px;
 }
 
+.view-collection-products {
+padding: 30px;
+}
+
 h1#page-title {
 font-size: 30px;
 	padding-left: 15px;
@@ -293,4 +297,9 @@ border-radius: 30px;
     -moz-border-image:url(../images/dots.png) 10 repeat stretch;
     border-image:url(../images/dots.png) 10 repeat stretch;
 */
+}
+
+#zone-postscript .view-ad-push img {
+    border: 4px solid white;
+    max-width: 202px;
 }
