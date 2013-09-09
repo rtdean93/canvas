@@ -303,3 +303,8 @@ border-radius: 30px;
     border: 4px solid white;
     max-width: 202px;
 }
+
+.grid-24 .block-main {
+	margin: 20px;
+}
+}
