@@ -112,7 +112,8 @@ body {
 }
 
 .container-24 .grid-14 {
-  width: 540px;
+  /* width: 540px; */
+  width: 500px;
 }
 
 .container-24 .grid-15 {
