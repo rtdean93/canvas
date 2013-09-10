@@ -6,4 +6,8 @@
 /sites/default/files/css
 /sites/default/files/js
 /sites/default/files/xmlsitemap
+/sites/default/files
+/sites/default/files/*
+/sites/default/settings.php
 /tmp
+FILE_NAME
