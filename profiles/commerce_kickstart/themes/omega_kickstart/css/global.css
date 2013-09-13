@@ -2963,3 +2963,10 @@ html.js #commerce-backoffice-message-form fieldset .fieldset-legend {
   .in-maintenance #page .page-wrapper {
     background: #fff;
     padding: 10px 10px 20px 10px; }
+
+#block-views-blog-category-list-block .block-title, #block-views-blog-block-1 .block-title {
+font-size: 20px;
+font-weight: 500;
+text-transform: uppercase;
+font-family: "Open Sans", sans-serif;
+}
