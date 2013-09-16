@@ -2978,3 +2978,7 @@ color: #898a8c;
 margin: 20px 0;
 padding: 13px 27px;
 }
+
+ul.inline.commerce-checkout-progress li, ol.inline.commerce-checkout-progress li {
+list-style: none;
+}
