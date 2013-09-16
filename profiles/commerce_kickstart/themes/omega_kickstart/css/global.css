@@ -2982,3 +2982,8 @@ padding: 13px 27px;
 ul.inline.commerce-checkout-progress li, ol.inline.commerce-checkout-progress li {
 list-style: none;
 }
+
+.block-demo-content-slideshow-block-1 .event-slider img {
+    border-radius: 26px 26px 26px 26px;
+    margin-top: -10px;
+}
